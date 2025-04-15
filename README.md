@@ -164,6 +164,6 @@ python main.py
 
 ## 📬 Contact
 
-For feedback or questions, open an issue or reach out at **[anupam123rabha@gmail.com]**.
+For feedback or questions, open an issue or reach out at **[vedchjp@gmail.com]**.
 
 ---
